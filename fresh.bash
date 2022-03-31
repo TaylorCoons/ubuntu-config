@@ -21,3 +21,10 @@ sudo apt install git
 
 # configure
 git config --global init.defaultBranch main
+
+
+
+# postamble stuff
+
+# set aliases
+cat alias.bash >> ~/.bashrc
