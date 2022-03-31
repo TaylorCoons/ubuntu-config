@@ -22,7 +22,9 @@ sudo apt install git
 # configure
 git config --global init.defaultBranch main
 
-
+# ---- curl ----
+# install
+sudo apt install curl
 
 # postamble stuff
 
